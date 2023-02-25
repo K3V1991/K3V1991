@@ -7,6 +7,8 @@
 &emsp;
 <a href="https://github.com/sponsors/K3V1991" alt="Sponsor"><img src="https://github.com/K3V1991/K3V1991/blob/main/Sponsor.png" width="180"></a>
 &emsp;
+<a href="" alt="Sponsorhttps://ko-fi.com/k3v1991"><img src="https://github.com/K3V1991/K3V1991/blob/main/Ko-fi.png" width="130"></a>
+&emsp;
 <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=HW8B98TVDLKWA" alt="PayPal"><img src="https://github.com/K3V1991/K3V1991/blob/main/PayPal.png" width="180"></a>
 &emsp;
 <a href="https://github.com/K3V1991/Donate-Crypto" alt="Crypto"><img src="https://github.com/K3V1991/K3V1991/blob/main/Crypto.png" width="100"></a>
