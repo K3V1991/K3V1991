@@ -7,7 +7,7 @@
 &emsp;
 <a href="https://github.com/sponsors/K3V1991" alt="Sponsor"><img src="https://github.com/K3V1991/K3V1991/blob/main/Sponsor.png" width="180"></a>
 &emsp;
-<a href="https://liberapay.com/K3V1991" alt="LiberaPay"><img src="https://github.com/K3V1991/K3V1991/blob/main/LiberaPay.png" width="120"></a>
+<a href="https://liberapay.com/K3V1991" alt="LiberaPay"><img src="https://github.com/K3V1991/K3V1991/blob/main/LiberaPay.png" width="110"></a>
 &emsp;
 <a href="https://ko-fi.com/k3v1991" alt="Ko-fi"><img src="https://github.com/K3V1991/K3V1991/blob/main/Ko-fi.png" width="130"></a>
 &emsp;
