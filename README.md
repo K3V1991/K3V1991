@@ -15,9 +15,8 @@
 <hr>
 <br />
 <br />
-
-## 📋 About
-**Hi. I've been working on something..**
+ 
+![Stats](https://github-readme-stats.vercel.app/api?username=K3V1991&show_icons=true&theme=dark)
 <br />
 <br />
 
