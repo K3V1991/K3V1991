@@ -1,11 +1,8 @@
 <div id="header" align="center">
-  <img src="https://github.com/K3V1991/K3V1991/blob/main/AGirlDancing.gif" width="250"/>
+  <img src="https://github.com/K3V1991/K3V1991/blob/main/Shigure-Dance.gif" width="300"/> <br />
+Hi, my name is K3V1991 and I create open & non-profit Content (Apps/Scripts & Tutorials).
 </div>
 <hr>
-
-## Hi, my name is K3V1991 and I create open & non-profit Content (Apps/Scripts & Tutorials).
-<br />
-<br />
 
 <p align="center">
 <a href="https://forum.xda-developers.com/t/tool-windows-adb-fastboot-march-2022.3944288/" alt="XDA Profile"><img src="https://github.com/K3V1991/K3V1991/blob/main/XDA.png" width="140"></a>
@@ -43,6 +40,8 @@
 ![Playstation 4](https://img.shields.io/badge/Playstation%204-003791?style=for-the-badge&logo=playstation-4&logoColor=white)
 <br />
 <br />
+
+<hr>
 
 ## 🐾 Visitors
 ![:K3V1991](https://count.getloli.com/get/@:K3V1991?theme=rule34)
