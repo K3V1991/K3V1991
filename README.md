@@ -24,11 +24,6 @@ Hi, my name is K3V1991 and I create open & non-profit Content (Apps/Scripts & Tu
 <br />
 <br />
 
-## 🎶 Now playing on Spotify
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11137358597&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-<br />
-<br />
-
 ## 💻 Operating Systems
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)<br>
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
