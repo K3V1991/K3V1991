@@ -11,6 +11,8 @@ Hi, my name is K3V1991 and I create open & non-profit Content (Apps/Scripts & Tu
 &emsp;
 <a href="https://liberapay.com/K3V1991" alt="LiberaPay"><img src="https://github.com/K3V1991/K3V1991/blob/main/LiberaPay.png" width="110"></a>
 &emsp;
+<a href="https://www.buymeacoffee.com/K3V1991" alt="BuyMeACoffee"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="170" ></a>
+&emsp;
 <a href="https://ko-fi.com/k3v1991" alt="Ko-fi"><img src="https://github.com/K3V1991/K3V1991/blob/main/Ko-fi.png" width="130"></a>
 &emsp;
 <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=HW8B98TVDLKWA" alt="PayPal"><img src="https://github.com/K3V1991/K3V1991/blob/main/PayPal.png" width="180"></a>
